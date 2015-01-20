@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="home">
+<header>
+<h1>MA001: Beginning Algebra</h1>
+</header>
+<div class="Description">
+<p>{{site.description}}</p><br>
+  <h1 class="page-heading">Units</h1>
+  <br>
+  <ul>
+  {% for page in site.pages %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+  <br>
+  <a class="post-link" href="{{page.next.url}}">Next</a>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+</div>
+</div>
