@@ -4,18 +4,24 @@ layout: default
 
 <div class="home">
 <header>
-<h1>MA001: Beginning Algebra</h1>
+<h1>Course List</h1>
 </header>
 <div class="Description">
 <p>{{site.description}}</p><br>
   <h1 class="page-heading">Units</h1>
   <br>
   <ul>
-  {% for page in site.pages %}
+  {% for collection in site.collections %}
+  {% capture label %}{{ collection | first}}{% endcapture %}
+  {% capture course_namefull %}{{course_name}}{% endcapture %}
+  <h3>Collection: {{ course_namefull }} All documents listed in collection '{{ label}}'</h3>
+  {% for doc in site.collections.[label].docs %}
     <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
+      <a href="{{ site.url }}{{ doc.url }}">{{ doc.title }}</a>
     </li>
   {% endfor %}
+
+{% endfor %}
   </ul>
   <br>
   <a class="post-link" href="{{page.next.url}}">Next</a>

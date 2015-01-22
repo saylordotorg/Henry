@@ -1,1 +1,5 @@
-_site
+_site/
+_course_*/
+course_*/
+
+.sass-cache/
