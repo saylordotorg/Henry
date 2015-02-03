@@ -51,8 +51,15 @@ collections:
     output: true
     permalink: /arth209/:path/
     label: ARTH209
-  coure_arth210:
+  course_arth210:
     output: true
     permalink: /arth210/:path/
     label: ARTH210
-
+  course_arth301:
+    output: true
+    permalink: /arth301/:path/
+    label: ARTH301
+  course_arth303:
+    output: true
+    permalink: /arth303/:path/
+    label: ARTH303
