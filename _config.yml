@@ -2,7 +2,7 @@
 title: Saylor Academy - GitHub Courses
 email: contact@saylor.org
 description: > # this means to ignore newlines until "baseurl:"
-  An exploration of visual art forms and their cultural connections, including a brief study of art history, and in-depth studies of the elements, media, and methods used in creative thought and processes.
+  Saylor Academy's Legacy Courseware
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "localhost" # the base hostname & protocol for your site
 twitter_username: saylordotorg
