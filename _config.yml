@@ -1,5 +1,5 @@
 # Site settings
-title: ARTH 101 - Introduction to Art History
+title: Saylor Academy - GitHub Courses
 email: contact@saylor.org
 description: > # this means to ignore newlines until "baseurl:"
   An exploration of visual art forms and their cultural connections, including a brief study of art history, and in-depth studies of the elements, media, and methods used in creative thought and processes.
@@ -27,4 +27,16 @@ collections:
     output: true
     permalink: /arth111/:path/
     label: ARTH111
+  course_arth201:
+    output: true
+    permalink: /arth201/:path/
+    label: ARTH201
+  course_arth202:
+    output: true
+    permalink: /arth202/:path/
+    label: ARTH202
+  course_arth206:
+    output: true
+    permalink: /arth206/:path/
+    label: ARTH206
 
