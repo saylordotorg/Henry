@@ -19,4 +19,12 @@ collections:
     output: true
     permalink: /arth101/:path/
     label: ARTH101
+  course_arth110:
+    output: true
+    permalink: /arth110/:path/
+    label: ARTH110
+  course_arth111:
+    output: true
+    permalink: /arth111/:path/
+    label: ARTH111
 
