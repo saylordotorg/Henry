@@ -15,8 +15,8 @@ markdown: kramdown
 #permalink: /:title/
 
 collections:
-  course_cs407:
+  course_arth101:
     output: true
-    permalink: /cs407/:path/
-    label: CS407
+    permalink: /arth101/:path/
+    label: ARTH101
 
