@@ -63,3 +63,32 @@ collections:
     output: true
     permalink: /arth303/:path/
     label: ARTH303
+  course_arth304:
+    output: true
+    permalink: /arth304/:path/
+    label: ARTH304
+  course_arth305:
+    output: true
+    permalink: /arth305/:path/
+    label: ARTH305
+  course_arth307:
+    output: true
+    permalink: /arth307/:path/
+    label: ARTH307
+  course_arth401:
+    output: true
+    permalink: /arth401/:path/
+    label: ARTH401
+  course_arth406:
+    output: true
+    permalink: /arth406/:path/
+    label: ARTH406
+  course_arth408:
+    output: true
+    permalink: /arth408/:path/
+    label: ARTH408
+  course_arth409:
+    output: true
+    permalink: /arth409/:path/
+    label: ARTH409
+    
