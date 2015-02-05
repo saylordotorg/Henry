@@ -1,31 +1,23 @@
 ---
 layout: default
+title: "Course List"
+course_description: "Saylor Academy's Legacy Courseware"
 ---
 
 <div class="home">
-<header>
-<h1>Course List</h1>
-</header>
-<div class="Description">
-<p>{{site.description}}</p><br>
-  <h1 class="page-heading">Units</h1>
-  <br>
-  <ul>
-  {% for collection in site.collections %}
-  {% capture label %}{{ collection | first}}{% endcapture %}
-  {% capture course_namefull %}{{course_name}}{% endcapture %}
-  <h3>Collection: {{ course_namefull }} All documents listed in collection '{{ label}}'</h3>
-  {% for doc in site.collections.[label].docs %}
-    <li>
-      <a href="{{ site.url }}{{ doc.url }}">{{ doc.title }}</a>
-    </li>
-  {% endfor %}
+    <ul>
+      
+      {% for collection in site.collections %}
+        {% capture label %}{{ collection | first}}{% endcapture %}
+        
+        <a href = "{{ site.collections.[label].docs.first.url }}">{{ site.collections.[label].docs.first.title }}</a><br>
 
-{% endfor %}
-  </ul>
-  <br>
-  <a class="post-link" href="{{page.next.url}}">Next</a>
+      {% endfor %}
+    </ul>
+    
+    <br>
+    
+    <a class="post-link" href="{{page.next.url}}">Next</a>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-</div>
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
