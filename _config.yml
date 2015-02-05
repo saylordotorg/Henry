@@ -91,4 +91,12 @@ collections:
     output: true
     permalink: /arth409/:path/
     label: ARTH409
+  course_astr101:
+    output: true
+    permalink: /astr101/:path/
+    label: ASTR101
+  course_bio101a:
+    output: true
+    permalink: /bio101a/:path/
+    label: BIO101A
     
