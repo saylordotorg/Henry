@@ -99,4 +99,43 @@ collections:
     output: true
     permalink: /bio101a/:path/
     label: BIO101A
-    
+  course_bio101b:
+    output: true
+    permalink: /bio101b/:path/
+    label: BIO101B
+  course_bio101l:
+    output: true
+    permalink: /bio101l/:path/
+    label: BIO101L
+  course_bio102:
+    output: true
+    permalink: /bio102/:path/
+    label: BIO102
+  course_bio102l:
+    output: true
+    permalink: /bio102l/:path/
+    label: BIO102
+  course_bio301:
+    output: true
+    permalink: /bio301/:path/
+    label: BIO301
+  course_bio302:
+    output: true
+    permalink: /bio302/:path/
+    label: BIO302
+  course_bio302l:
+    output: true
+    permalink: /bio302l/:path/
+    label: BIO302L
+  course_bio303:
+    output: true
+    permalink: /bio303/:path/
+    label: BIO303
+  course_bio304:
+    output: true
+    permalink: /bio304/:path/
+    label: BIO304
+  course_bio304l:
+    output: true
+    permalink: /bio304l/:path/
+    label: BIO304L
