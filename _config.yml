@@ -139,3 +139,7 @@ collections:
     output: true
     permalink: /bio304l/:path/
     label: BIO304L
+  course_cs407:
+  	output: true
+  	permalink: /cs407/:path/
+  	label: CS407
