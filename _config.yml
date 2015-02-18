@@ -339,6 +339,34 @@ collections:
     output: true
     permalink: /chem205/:path/
     label: CHEM205
+  course_comm001:
+    output: true
+    permalink: /comm001/:path/
+    label: COMM001
+  course_comm002:
+    output: true
+    permalink: /comm002/:path/
+    label: COMM002
+  course_comm101:
+    output: true
+    permalink: /comm101/:path/
+    label: COMM101
+  course_comm103:
+    output: true
+    permalink: /comm103/:path/
+    label: COMM103
+  course_comm311:
+    output: true
+    permalink: /comm311/:path/
+    label: COMM311
+  course_comm323:
+    output: true
+    permalink: /comm323/:path/
+    label: COMM323
+  course_comm411:
+    output: true
+    permalink: /comm411/:path/
+    label: COMM411
   course_cs407:
     output: true
     permalink: /cs407/:path/
