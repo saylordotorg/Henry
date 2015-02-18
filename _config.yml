@@ -287,6 +287,58 @@ collections:
     output: true
     permalink: /bus501/:path/
     label: BUS501
+  course_chem101:
+    output: true
+    permalink: /chem101/:path/
+    label: CHEM101
+  course_chem102:
+    output: true
+    permalink: /chem102/:path/
+    label: CHEM102
+  course_chem103:
+    output: true
+    permalink: /chem103/:path/
+    label: CHEM103
+  course_chem104:
+    output: true
+    permalink: /chem104/:path/
+    label: CHEM104
+  course_chem105:
+    output: true
+    permalink: /chem105/:path/
+    label: CHEM105
+  course_chem106:
+    output: true
+    permalink: /chem106/:path/
+    label: CHEM106
+  course_chem107:
+    output: true
+    permalink: /chem107/:path/
+    label: CHEM107
+  course_chem108:
+    output: true
+    permalink: /chem108/:path/
+    label: CHEM108
+  course_chem201:
+    output: true
+    permalink: /chem201/:path/
+    label: CHEM201
+  course_chem202:
+    output: true
+    permalink: /chem202/:path/
+    label: CHEM202
+  course_chem203:
+    output: true
+    permalink: /chem203/:path/
+    label: CHEM203
+  course_chem204:
+    output: true
+    permalink: /chem204/:path/
+    label: CHEM204
+  course_chem205:
+    output: true
+    permalink: /chem205/:path/
+    label: CHEM205
   course_cs407:
     output: true
     permalink: /cs407/:path/
