@@ -203,6 +203,50 @@ collections:
     output: true
     permalink: /bio407/:path/
     label: BIO407
+  course_bus101:
+    output: true
+    permalink: /bus101/:path/
+    label: BUS101
+  course_bus103:
+    output: true
+    permalink: /bus103/:path/
+    label: BUS103
+  course_bus105:
+    output: true
+    permalink: /bus105/:path/
+    label: BUS105
+  course_bus202:
+    output: true
+    permalink: /bus202/:path/
+    label: BUS202
+  course_bus203:
+    output: true
+    permalink: /bus203/:path/
+    label: BUS203
+  course_bus204:
+    output: true
+    permalink: /bus204/:path/
+    label: BUS204
+  course_bus205:
+    output: true
+    permalink: /bus205/:path/
+    label: BUS205
+  course_bus206:
+    output: true
+    permalink: /bus206/:path/
+    label: BUS206
+  course_bus208:
+    output: true
+    permalink: /bus208/:path/
+    label: BUS208
+  course_bus209: 
+    output: true
+    permalink: /bus209/:path/
+    label: BUS209
+  course_bus210:
+    output: true
+    permalink: /bus210/:path/
+    label: BUS210
   course_cs407:
     output: true
     permalink: /cs407/:path/
