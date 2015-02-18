@@ -247,6 +247,46 @@ collections:
     output: true
     permalink: /bus210/:path/
     label: BUS210
+  course_bus300:
+    output: true
+    permalink: /bus300/:path/
+    label: BUS300
+  course_bus301:
+    output: true
+    permalink: /bus301/:path/
+    label: BUS301
+  course_bus303:
+    output: true
+    permalink: /bus303/:path/
+    label: BUS303
+  course_bus305:
+    output: true
+    permalink: /bus305/:path/
+    label: BUS305
+  course_bus306:
+    output: true
+    permalink: /bus306/:path/
+    label: BUS306
+  course_bus401:
+    output: true
+    permalink: /bus401/:path/
+    label: BUS401
+  course_bus402:
+    output: true
+    permalink: /bus402/:path/
+    label: BUS402
+  course_bus403:
+    output: true
+    permalink: /bus403/:path/
+    label: BUS403
+  course_bus404:
+    output: true
+    permalink: /bus404/:path/
+    label: BUS404
+  course_bus501:
+    output: true
+    permalink: /bus501/:path/
+    label: BUS501
   course_cs407:
     output: true
     permalink: /cs407/:path/
