@@ -367,7 +367,95 @@ collections:
     output: true
     permalink: /comm411/:path/
     label: COMM411
+  course_commoncore101:
+    output: true
+    permalink: /commoncore101/:path/
+    label: COMMONCORE101
+  course_cs101:
+    output: true
+    permalink: /cs101/:path/
+    label: CS101
+  course_cs102:
+    output: true
+    permalink: /cs102/:path/
+    label: CS102
+  course_cs107:
+    output: true
+    permalink: /cs107/:path/
+    label: CS107
+  course_cs201:
+    output: true
+    permalink: /cs201/:path/
+    label: CS201
+  course_cs202:
+    output: true
+    permalink: /cs202/:path/
+    label: CS202
+  course_cs301:
+    output: true
+    permalink: /cs301/:path/
+    label: CS301
+  course_cs302:
+    output: true
+    permalink: /cs302/:path/
+    label: CS302
+  course_cs303:
+    output: true
+    permalink: /cs303/:path/
+    label: CS303
+  course_cs304:
+    output: true
+    permalink: /cs304/:path/
+    label: CS304
+  course_cs305:
+    output: true
+    permalink: /cs305/:path/
+    label: CS305
+  course_cs401:
+    output: true
+    permalink: /cs401/:path/
+    label: CS401
+  course_cs402:
+    output: true
+    permalink: /cs402/:path/
+    label: CS402
+  course_cs403:
+    output: true
+    permalink: /cs403/:path/
+    label: CS403
+  course_cs404:
+    output: true
+    permalink: /cs404/:path/
+    label: CS404
+  course_cs405:
+    output: true
+    permalink: /cs405/:path/
+    label: CS405
+  course_cs406:
+    output: true
+    permalink: /cs406/:path/
+    label: CS406
   course_cs407:
     output: true
     permalink: /cs407/:path/
     label: CS407
+  course_cs408:
+    output: true
+    permalink: /cs408/:path/
+    label: CS408
+  course_cs409:
+    output: true
+    permalink: /cs409/:path/
+    label: CS409
+  course_cs410:
+    output: true
+    permalink: /cs410/:path/
+    label: CS410
+  course_cs411:
+    output: true
+    permalink: /cs411/:path/
+    label: CS411
+  course_cs412:
+    output: true
+    permalink: /cs412/:path/
+    label: CS412
