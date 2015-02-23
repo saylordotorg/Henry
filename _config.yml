@@ -459,3 +459,67 @@ collections:
     output: true
     permalink: /cs412/:path/
     label: CS412
+  course_cust104:
+    output: true
+    permalink: /cust104/:path/
+    label: CUST104
+  course_cust105:
+    output: true
+    permalink: /cust105/:path/
+    label: CUST105
+  course_econ101:
+    output: true
+    permalink: /econ101/:path/
+    label: ECON101
+  course_econ101_clep:
+    output: true
+    permalink: /econ101-clep/:path/
+    label: ECON101-CLEP
+  course_econ102:
+    output: true
+    permalink: /econ102/:path/
+    label: ECON102
+  course_econ102_exc:
+    output: true
+    permalink: /econ102-exc/:path/
+    label: ECON102-EXC
+  course_econ200:
+    output: true
+    permalink: /econ200/:path/
+    label: ECON200
+  course_econ201:
+    output: true
+    permalink: /econ201/:path/
+    label: ECON201
+  course_econ202:
+    output: true
+    permalink: /econ202/:path/
+    label: ECON202
+  course_econ301:
+    output: true
+    permalink: /econ301/:path/
+    label: ECON301
+  course_econ302:
+    output: true
+    permalink: /econ302/:path/
+    label: ECON302
+  course_econ303:
+    output: true
+    permalink: /econ303/:path/
+    label: ECON303
+  course_econ304:
+    output: true
+    permalink: /econ304/:path/
+    label: ECON304
+  course_econ305:
+    output: true
+    permalink: /econ305/:path/
+    label: ECON305
+  course_econ306:
+    output: true
+    permalink: /econ306/:path/
+    label: ECON306
+  course_econ307:
+    output: true
+    permalink: /econ307/:path/
+    label: ECON307
