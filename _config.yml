@@ -523,3 +523,87 @@ collections:
     output: true
     permalink: /econ307/:path/
     label: ECON307
+  course_engl000:
+    output: true
+    permalink: /engl000/:path/
+    label: ENGL000
+  course_engl001:
+    output: true
+    permalink: /engl001/:path/
+    label: ENGL001
+  course_engl002:
+    output: true
+    permalink: /engl002/:path/
+    label: ENGL002
+  course_engl101:
+    output: true
+    permalink: /engl101/:path/
+    label: ENGL101
+  course_engl201:
+    output: true
+    permalink: /engl201/:path/
+    label: ENGL201
+  course_engl202:
+    output: true
+    permalink: /engl202/:path/
+    label: ENGL202
+  course_engl203:
+    output: true
+    permalink: /engl203/:path/
+    label: ENGL203
+  course_engl204:
+    output: true
+    permalink: /engl204/:path/
+    label: ENGL204
+  course_engl301:
+    output: true
+    permalink: /engl301/:path/
+    label: ENGL301
+  course_engl401:
+    output: true
+    permalink: /engl401/:path/
+    label: ENGL401
+  course_engl402:
+    output: true
+    permalink: /engl402/:path/
+    label: ENGL402
+  course_engl403:
+    output: true
+    permalink: /engl403/:path/
+    label: ENGL403
+  course_engl404:
+    output: true
+    permalink: /engl404/:path/
+    label: ENGL404
+  course_engl405:
+    output: true
+    permalink: /engl405/:path/
+    label: ENGL405
+  course_engl406:
+    output: true
+    permalink: /engl406/:path/
+    label: ENGL406
+  course_engl407:
+    output: true
+    permalink: /engl407/:path/
+    label: ENGL407
+  course_engl408:
+    output: true
+    permalink: /engl408/:path/
+    label: ENGL408
+  course_engl409:
+    output: true
+    permalink: /engl409/:path/
+    label: ENGL409
+  course_engl410:
+    output: true
+    permalink: /engl410/:path/
+    label: ENGL410
+  course_engl411:
+    output: true
+    permalink: /engl411/:path/
+    label: ENGL411
+  course_engl412:
+    output: true
+    permalink: /engl412/:path/
+    label: ENGL412
