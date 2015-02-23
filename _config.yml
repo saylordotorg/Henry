@@ -607,3 +607,15 @@ collections:
     output: true
     permalink: /engl412/:path/
     label: ENGL412
+  course_envs203:
+    output: true
+    permalink: /envs203/:path/
+    label: ENVS203
+  course_envs504:
+    output: true
+    permalink: /envs504/:path/
+    label: ENVS504
+  course_geog101:
+    output: true
+    permalink: /geog101/:path/
+    label: GEOG101
