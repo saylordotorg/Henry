@@ -619,3 +619,115 @@ collections:
     output: true
     permalink: /geog101/:path/
     label: GEOG101
+  course_hist101:
+    output: true
+    permalink: /hist101/:path/
+    label: HIST101
+  course_hist102:
+    output: true
+    permalink: /hist102/:path/
+    label: HIST102
+  course_hist103:
+    output: true
+    permalink: /hist103/:path/
+    label: HIST103
+  course_hist104:
+    output: true
+    permalink: /hist104/:path/
+    label: HIST104
+  course_hist201:
+    output: true
+    permalink: /hist201/:path/
+    label: HIST201
+  course_hist202:
+    output: true
+    permalink: /hist202/:path/
+    label: HIST202
+  course_hist211:
+    output: true
+    permalink: /hist211/:path/
+    label: HIST211
+  course_hist212:
+    output: true
+    permalink: /hist212/:path/
+    label: HIST212
+  course_hist221:
+    output: true
+    permalink: /hist221/:path/
+    label: HIST221
+  course_hist231:
+    output: true
+    permalink: /hist231/:path/
+    label: HIST231
+  course_hist232:
+    output: true
+    permalink: /hist232/:path/
+    label: HIST232
+  course_hist241:
+    output: true
+    permalink: /hist241/:path/
+    label: HIST241
+  course_hist242:
+    output: true
+    permalink: /hist242/:path/
+    label: HIST242
+  course_hist251:
+    output: true
+    permalink: /hist251/:path/
+    label: HIST251
+  course_hist252:
+    output: true
+    permalink: /hist252/:path/
+    label: HIST252
+  course_hist301:
+    output: true
+    permalink: /hist301/:path/
+    label: HIST301
+  course_hist302:
+    output: true
+    permalink: /hist302/:path/
+    label: HIST302
+  course_hist303:
+    output: true
+    permalink: /hist303/:path/
+    label: HIST303
+  course_hist311:
+    output: true
+    permalink: /hist311/:path/
+    label: HIST311
+  course_hist312:
+    output: true
+    permalink: /hist312/:path/
+    label: HIST312
+  course_hist313:
+    output: true
+    permalink: /hist313/:path/
+    label: HIST313
+  course_hist321:
+    output: true
+    permalink: /hist321/:path/
+    label: HIST321
+  course_hist341:
+    output: true
+    permalink: /hist341/:path/
+    label: HIST341
+  course_hist351:
+    output: true
+    permalink: /hist351/:path/
+    label: HIST351
+  course_hist362:
+    output: true
+    permalink: /hist362/:path/
+    label: HIST362
+  course_hist363:
+    output: true
+    permalink: /hist363/:path/
+    label: HIST363
+  course_hist364:
+    output: true
+    permalink: /hist364/:path/
+    label: HIST364
+  course_hist365:
+    output: true
+    permalink: /hist365/:path/
+    label: HIST365
