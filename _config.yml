@@ -731,3 +731,59 @@ collections:
     output: true
     permalink: /hist365/:path/
     label: HIST365
+  course_k12ela006:
+    output: true
+    permalink: /k12ela006/:path/
+    label: K12ELA006
+  course_k12ela007:
+    output: true
+    permalink: /k12ela007/:path/
+    label: K12ELA007
+  course_k12ela008:
+    output: true
+    permalink: /k12ela008/:path/
+    label: K12ELA008
+  course_k12ela010:
+    output: true
+    permalink: /k12ela010/:path/
+    label: K12ELA010
+  course_k12ela011:
+    output: true
+    permalink: /k12ela011/:path/
+    label: K12ELA011
+  course_k12math006:
+    output: true
+    permalink: /k12math006/:path/
+    label: K12MATH006
+  course_k12math007:
+    output: true
+    permalink: /k12math007/:path/
+    label: K12MATH007
+  course_k12math008:
+    output: true
+    permalink: /k12math008/:path/
+    label: K12MATH008
+  course_k12math009:
+    output: true
+    permalink: /k12math009/:path/
+    label: K12MATH009
+  course_k12math010:
+    output: true
+    permalink: /k12math010/:path/
+    label: K12MATH010
+  course_k12math011:
+    output: true
+    permalink: /k12math011/:path/
+    label: K12MATH011
+  course_k12math012:
+    output: true
+    permalink: /k12math012/:path/
+    label: K12MATH012
+  course_k12math013:
+    output: true
+    permalink: /k12math013/:path/
+    label: K12MATH013
+  course_k12math014:
+    output: true
+    permalink: /k12math014/:path/
+    label: K12MATH014
