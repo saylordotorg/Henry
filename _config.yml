@@ -787,3 +787,107 @@ collections:
     output: true
     permalink: /k12math014/:path/
     label: K12MATH014
+  course_ma001:
+    output: true
+    permalink: /ma001/:path/
+    label: MA001
+  course_ma002:
+    output: true
+    permalink: /ma002/:path/
+    label: MA002
+  course_ma003:
+    output: true
+    permalink: /ma003/:path/
+    label: MA003
+  course_ma004:
+    output: true
+    permalink: /ma004/:path/
+    label: MA004
+  course_ma005:
+    output: true
+    permalink: /ma005/:path/
+    label: MA005
+  course_ma101:
+    output: true
+    permalink: /ma101/:path/
+    label: MA101
+  course_ma101_exc:
+    output: true
+    permalink: /ma101-exc/:path/
+    label: MA101-EXC
+  course_ma102:
+    output: true
+    permalink: /ma102/:path/
+    label: MA102
+  course_ma103:
+    output: true
+    permalink: /ma103/:path/
+    label: MA103
+  course_ma111:
+    output: true
+    permalink: /ma111/:path/
+    label: MA111
+  course_ma121:
+    output: true
+    permalink: /ma121/:path/
+    label: MA121
+  course_ma201:
+    output: true
+    permalink: /ma201/:path/
+    label: MA201
+  course_ma211:
+    output: true
+    permalink: /ma211/:path/
+    label: MA211
+  course_ma212:
+    output: true
+    permalink: /ma212/:path/
+    label: MA212
+  course_ma213:
+    output: true
+    permalink: /ma213/:path/
+    label: MA213
+  course_ma221:
+    output: true
+    permalink: /ma221/:path/
+    label: MA221
+  course_ma222:
+    output: true
+    permalink: /ma222/:path/
+    label: MA222
+  course_ma231:
+    output: true
+    permalink: /ma231/:path/
+    label: MA231
+  course_ma232:
+    output: true
+    permalink: /ma232/:path/
+    label: MA232
+  course_ma233:
+    output: true
+    permalink: /ma233/:path/
+    label: MA233
+  course_ma241:
+    output: true
+    permalink: /ma241/:path/
+    label: MA241
+  course_ma242:
+    output: true
+    permalink: /ma242/:path/
+    label: MA242
+  course_ma243:
+    output: true
+    permalink: /ma243/:path/
+    label: MA243
+  course_ma251:
+    output: true
+    permalink: /ma251/:path/
+    label: MA251
+  course_ma252:
+    output: true
+    permalink: /ma252/:path/
+    label: MA252
+  course_ma304:
+    output: true
+    permalink: /ma304/:path/
+    label: MA304
