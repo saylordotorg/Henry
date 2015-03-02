@@ -891,3 +891,67 @@ collections:
     output: true
     permalink: /ma304/:path/
     label: MA304
+  course_me101:
+    output: true
+    permalink: /me101/:path/
+    label: ME101
+  course_me102:
+    output: true
+    permalink: /me102/:path/
+    label: ME102
+  course_me103:
+    output: true
+    permalink: /me103/:path/
+    label: ME103
+  course_me104:
+    output: true
+    permalink: /me104/:path/
+    label: ME104
+  course_me201:
+    output: true
+    permalink: /me201/:path/
+    label: ME201
+  course_me202:
+    output: true
+    permalink: /me202/:path/
+    label: ME202
+  course_me203:
+    output: true
+    permalink: /me203/:path/
+    label: ME203
+  course_me204:
+    output: true
+    permalink: /me204/:path/
+    label: ME204
+  course_me205:
+    output: true
+    permalink: /me205/:path/
+    label: ME205
+  course_me301:
+    output: true
+    permalink: /me301/:path/
+    label: ME301
+  course_me302:
+    output: true
+    permalink: /me302/:path/
+    label: ME302
+  course_me303:
+    output: true
+    permalink: /me303/:path/
+    label: ME303
+  course_me304:
+    output: true
+    permalink: /me304/:path/
+    label: ME304
+  course_me401:
+    output: true
+    permalink: /me401/:path/
+    label: ME401
+  course_me402:
+    output: true
+    permalink: /me402/:path/
+    label: ME402
+  course_me403:
+    output: true
+    permalink: /me403/:path/
+    label: ME403
