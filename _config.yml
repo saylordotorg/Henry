@@ -955,3 +955,31 @@ collections:
     output: true
     permalink: /me403/:path/
     label: ME403
+  course_mus101:
+    output: true
+    permalink: /mus101/:path/
+    label: MUS101
+  course_phil101:
+    output: true
+    permalink: /phil101/:path/
+    label: PHIL101
+  course_phil102:
+    output: true
+    permalink: /phil102/:path/
+    label: PHIL102
+  course_phil103:
+    output: true
+    permalink: /phil103/:path/
+    label: PHIL103
+  course_phil201:
+    output: true
+    permalink: /phil201/:path/
+    label: PHIL201
+  course_phil202:
+    output: true
+    permalink: /phil202/:path/
+    label: PHIL202
+  course_phil304:
+    output: true
+    permalink: /phil304/:path/
+    label: PHIL304
