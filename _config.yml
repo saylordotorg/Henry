@@ -983,3 +983,11 @@ collections:
     output: true
     permalink: /phil304/:path/
     label: PHIL304
+  course_phys101:
+    output: true
+    permalink: /phys101/:path/
+    label: PHYS101
+  course_phys102:
+    output: true
+    permalink: /phys102/:path/
+    label: PHYS102
