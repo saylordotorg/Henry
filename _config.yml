@@ -1103,3 +1103,143 @@ collections:
     output: true
     permalink: /polsc432/:path/
     label: POLSC432
+  course_prdv001:
+    output: true
+    permalink: /prdv001/:path/
+    label: PRDV001
+  course_prdv002:
+    output: true
+    permalink: /prdv002/:path/
+    label: PRDV002
+  course_prdv003:
+    output: true
+    permalink: /prdv003/:path/
+    label: PRDV003
+  course_prdv004:
+    output: true
+    permalink: /prdv004/:path/
+    label: PRDV004
+  course_prdv005:
+    output: true
+    permalink: /prdv005/:path/
+    label: PRDV005
+  course_prdv101:
+    output: true
+    permalink: /prdv101/:path/
+    label: PRDV101
+  course_prdv102:
+    output: true
+    permalink: /prdv102/:path/
+    label: PRDV102
+  course_prdv103:
+    output: true
+    permalink: /prdv103/:path/
+    label: PRDV103
+  course_prdv104:
+    output: true
+    permalink: /prdv104/:path/
+    label: PRDV104
+  course_prdv201:
+    output: true
+    permalink: /prdv201/:path/
+    label: PRDV201
+  course_prdv203:
+    output: true
+    permalink: /prdv203/:path/
+    label: PRDV203
+  course_prdv204:
+    output: true
+    permalink: /prdv204/:path/
+    label: PRDV204
+  course_prdv205:
+    output: true
+    permalink: /prdv205/:path/
+    label: PRDV205
+  course_prdv208:
+    output: true
+    permalink: /prdv208/:path/
+    label: PRDV208
+  course_prdv251:
+    output: true
+    permalink: /prdv251/:path/
+    label: PRDV251
+  course_prdv252:
+    output: true
+    permalink: /prdv252/:path/
+    label: PRDV252
+  course_prdv301:
+    output: true
+    permalink: /prdv301/:path/
+    label: PRDV301
+  course_prdv401:
+    output: true
+    permalink: /prdv401/:path/
+    label: PRDV401
+  course_prsm107:
+    output: true
+    permalink: /prsm107/:path/
+    label: PRSM107
+  course_psych101:
+    output: true
+    permalink: /psych101/:path/
+    label: PSYCH101
+  course_psych202a:
+    output: true
+    permalink: /psych202a/:path/
+    label: PSYCH202A
+  course_psych202b:
+    output: true
+    permalink: /psych202b/:path/
+    label: PSYCH202B
+  course_psych205:
+    output: true
+    permalink: /psych205/:path/
+    label: PSYCH205
+  course_psych206:
+    output: true
+    permalink: /psych206/:path/
+    label: PSYCH206
+  course_psych301:
+    output: true
+    permalink: /psych301/:path/
+    label: PSYCH301
+  course_psych302a:
+    output: true
+    permalink: /psych302a/:path/
+    label: PSYCH302A
+  course_psych303:
+    output: true
+    permalink: /psych303/:path/
+    label: PSYCH303
+  course_psych304:
+    output: true
+    permalink: /psych304/:path/
+    label: PSYCH304
+  course_psych305:
+    output: true
+    permalink: /psych305/:path/
+    label: PSYCH305
+  course_psych306:
+    output: true
+    permalink: /psych306/:path/
+    label: PSYCH306
+  course_psych401:
+    output: true
+    permalink: /psych401/:path/
+    label: PSYCH401
+  course_psych402:
+    output: true
+    permalink: /psych402/:path/
+    label: PSYCH402
+  course_psych403:
+    output: true
+    permalink: /psych403/:path/
+    label: PSYCH403
+  course_psych404:
+    output: true
+    permalink: /psych404/:path/
+    label: PSYCH404
+  course_psych406:
+    output: true
+    permalink: /psych406/:path/
+    label: PSYCH406
