@@ -991,3 +991,115 @@ collections:
     output: true
     permalink: /phys102/:path/
     label: PHYS102
+  course_polsc101:
+    output: true
+    permalink: /polsc101/:path/
+    label: POLSC101
+  course_polsc201:
+    output: true
+    permalink: /polsc201/:path/
+    label: POLSC201
+  course_polsc211:
+    output: true
+    permalink: /polsc211/:path/
+    label: POLSC211
+  course_polsc221:
+    output: true
+    permalink: /polsc221/:path/
+    label: POLSC221
+  course_polsc231:
+    output: true
+    permalink: /polsc231/:path/
+    label: POLSC231
+  course_polsc232:
+    output: true
+    permalink: /polsc232/:path/
+    label: POLSC232
+  course_polsc241:
+    output: true
+    permalink: /polsc241/:path/
+    label: POLSC241
+  course_polsc251:
+    output: true
+    permalink: /polsc251/:path/
+    label: POLSC251
+  course_polsc301:
+    output: true
+    permalink: /polsc301/:path/
+    label: POLSC301
+  course_polsc302:
+    output: true
+    permalink: /polsc302/:path/
+    label: POLSC302
+  course_polsc303:
+    output: true
+    permalink: /polsc303/:path/
+    label: POLSC303
+  course_polsc311:
+    output: true
+    permalink: /polsc311/:path/
+    label: POLSC311
+  course_polsc312:
+    output: true
+    permalink: /polsc312/:path/
+    label: POLSC312
+  course_polsc313:
+    output: true
+    permalink: /polsc313/:path/
+    label: POLSC313
+  course_polsc321:
+    output: true
+    permalink: /polsc321/:path/
+    label: POLSC321
+  course_polsc322:
+    output: true
+    permalink: /polsc322/:path/
+    label: POLSC322
+  course_polsc323:
+    output: true
+    permalink: /polsc323/:path/
+    label: POLSC323
+  course_polsc324:
+    output: true
+    permalink: /polsc324/:path/
+    label: POLSC324
+  course_polsc325:
+    output: true
+    permalink: /polsc325/:path/
+    label: POLSC325
+  course_polsc331:
+    output: true
+    permalink: /polsc331/:path/
+    label: POLSC331
+  course_polsc332:
+    output: true
+    permalink: /polsc332/:path/
+    label: POLSC332
+  course_polsc333:
+    output: true
+    permalink: /polsc333/:path/
+    label: POLSC333
+  course_polsc401:
+    output: true
+    permalink: /polsc401/:path/
+    label: POLSC401
+  course_polsc402:
+    output: true
+    permalink: /polsc402/:path/
+    label: POLSC402
+  course_polsc411:
+    output: true
+    permalink: /polsc411/:path/
+    label: POLSC411
+  course_polsc412:
+    output: true
+    permalink: /polsc412/:path/
+    label: POLSC412
+  course_polsc431:
+    output: true
+    permalink: /polsc431/:path/
+    label: POLSC431
+  course_polsc432:
+    output: true
+    permalink: /polsc432/:path/
+    label: POLSC432
