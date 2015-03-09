@@ -1,23 +1,53 @@
-	<!-- Header -->
-		<div id="header">
-			<div id="nav-wrapper"> 
-				<!-- Nav -->
-				<nav id="nav">
-					<ul>
-						<li><a href="http://saylor.org">Saylor.org</a></li>
-						<li><a href="{{site.url}}">Course Index</a></li>
-						<li><a href="{{page.previous}}">Previous</a></li>
-						<li><a href="{{page.next}}">Next</a></li>
-					</ul>
-				</nav>
-			</div>
-			<div class="container"> 
-				
-				<!-- Logo -->
-				<div id="logo">
-					<h1><a href="#">{{site.title}}</a></h1>
-					<span class="tag">{{site.description}}</span>
-				</div>
-			</div>
-		</div>
-	<!-- Header --> 
+	<!-- Header
+   =================================================== -->
+   <header id="main-header">
+
+   	<div class="row header-inner">
+
+	      <div class="logo">
+	         <a href="index.html">Saylor Academy</a>
+	      </div>
+
+	      <nav id="nav-wrap">         
+	         
+	         <a class="mobile-btn" href="#nav-wrap" title="Show navigation">
+	         	<span class='menu-text'>Show Menu</span>
+	         	<span class="menu-icon"></span>
+	         </a>
+         	<a class="mobile-btn" href="#" title="Hide navigation">
+         		<span class='menu-text'>Hide Menu</span>
+         		<span class="menu-icon"></span>
+         	</a>         
+
+	         <ul id="nav" class="nav">
+	            <li><a href="http://saylor.org">Main Page</a></li>
+		         <li><a href="{{site.url}}">Course Index</a></li>
+	            <li><a href="http://saylor.org/blog">Blog</a></li>
+	            <li><span></span></li>
+	            <li><a href="{{page.previous}}">Previous Page</a></li>
+	            <li><a href="{{page.next}}">Next Page</a></li>	        
+	         </ul> 
+
+	      </nav> <!-- /nav-wrap -->	      
+
+	   </div> <!-- /header-inner -->
+
+   </header>
+
+
+   <!-- Page Title
+   ================================================== -->
+   <section id="page-title">	
+   	  
+		<div class="row">
+
+			<div class="twelve columns">
+
+				<h1>{{site.title}}<span>.</span></h1>
+				<p>{{site.description}}</p>
+
+			</div>			    
+
+		</div> <!-- /row -->	   
+
+   </section> <!-- /page-title -->
