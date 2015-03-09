@@ -1243,3 +1243,43 @@ collections:
     output: true
     permalink: /psych406/:path/
     label: PSYCH406
+  course_rwm101:
+    output: true
+    permalink: /rwm101/:path/
+    label: RWM101
+  course_rwm102:
+    output: true
+    permalink: /rwm102/:path/
+    label: RWM102
+  course_rwm103:
+    output: true
+    permalink: /rwm103/:path/
+    label: RWM103
+  course_sales101:
+    output: true
+    permalink: /sales101/:path/
+    label: SALES101
+  course_sales103:
+    output: true
+    permalink: /sales103/:path/
+    label: SALES103
+  course_soc101:
+    output: true
+    permalink: /soc101/:path/
+    label: SOC101
+  course_sse101:
+    output: true
+    permalink: /sse101/:path/
+    label: SSE101
+  course_sts101:
+    output: true
+    permalink: /sts101/:path/
+    label: STS101
+  course_tprep101:
+    output: true
+    permalink: /tprep101/:path/
+    label: TPREP101
+  course_trycollege101:
+    output: true
+    permalink: /trycollege101/:path/
+    label: TRYCOLLEGE101
