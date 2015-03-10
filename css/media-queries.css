@@ -44,7 +44,7 @@
 @media only screen and (max-width:768px) {
 
    /* header styles */
-	header {	background: #12151b;	}
+	header {	background: #24535b;	}
 	header {	height: 60px; }
 	header .logo {	margin: 24px 0 0 0; }
 	header .logo a { margin-right: 0; }
@@ -61,7 +61,7 @@
 		right: 0;
 	}
 	#nav-wrap > a {
-		background: #f26522;
+		background: #469DCD;
 		border: none;
 		color: white;
 		height: 60px;
@@ -108,9 +108,9 @@
 		top: 6px;
 	}
 	#nav-wrap ul#nav {
-		background: #262d3a;
+		background: #24535b;
 		padding: 54px 45px 60px 45px;
-		margin: 0;
+		margin: 60px 0;
 		height: auto;
 		display: none;
 		clear: both;
@@ -135,7 +135,7 @@
 		display: block;
 		width: auto;
 		padding: 0;
-		padding: 12px 0;
+		padding: 18px 0;
 		line-height: 16px;
 		border: none;
 	}
