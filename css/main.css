@@ -808,7 +808,7 @@ header .logo {
 	vertical-align: middle;
 	margin: 0;
 	padding: 0;
-	margin-right: 15px;
+	margin-right: 0px;
 
 	/* add position relative since z-index only applies to
 	elements that have been given an explicit position */
@@ -825,7 +825,7 @@ header .logo a {
 	text-shadow: none;
 	color: transparent;
 	width: 126px;
-	height: 12px;
+	height: 30px;
 	background-repeat: no-repeat;
 	background-position: 0 0;
 	background-image: url("../images/logo.svg");
