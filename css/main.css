@@ -1397,7 +1397,9 @@ hr {
 	border-color: #9a9103;
 }
 #hero-slider .flex-caption .button.stroke {
-	margin: 0;
+	margin-top: 0x;
+	margin-right: auto;
+	margin-left: auto;
 	margin-bottom: 60px;
 	padding: 9px 20px;
 	width: auto;
