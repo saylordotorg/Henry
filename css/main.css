@@ -833,9 +833,9 @@ header .logo a {
 @media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi) {
 	header .logo a {
 		background-image: url("../images/logo.svg");
-		-webkit-background-size: 126px 12px;
-		-moz-background-size: 126px 12px;
-		background-size: 126px 12px;
+		-webkit-background-size: 126px 29px;
+		-moz-background-size: 126px 29px;
+		background-size: 126px 29px;
 	}
 }
 .opaque {
