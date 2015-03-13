@@ -906,7 +906,7 @@ ul#nav li.current a {
 /* =================================================================== */
 
 #content {
-	background: white;
+	background: #DDD;
 	padding-top: 66px;
 	padding-bottom: 102px;
 }
@@ -1462,7 +1462,7 @@ hr {
 /* l. Portfolio Section
 /* =================================================================== */
 #portfolio {
-	background: white;
+	background: #DDD;
 	padding-top: 120px;
 }
 .ie #portfolio .row.items {
