@@ -1,19 +1,157 @@
 ---
-layout: default
+layout: homepage
 title: "Legacy Courseware"
 course_description: "These are Saylor Academy courses that are not actively being maintained, but have been placed on GitHub and opened to the community for contributions."
 ---
+<section id="portfolio">
 
-<div class="home">
-    <ul>
-      
-      {% for collection in site.collections %}
+    <div class="row section-head">
+
+    	<div class="twelve columns">
+    		<h1>Some featured courses</h1>
+    		<hr />
+
+   		 	<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+	         eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
+	         voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+		    </p>
+
+	    </div>
+    </div>
+
+    <div class="row items">
+    	<div class="twelve columns">
+    		<div id="portfolio-wrapper" class="bgrid-fourth s-bgrid-third mob-bgrid-half group">
+
+    			<!-- item -->
+    			<div class="bgrid item">
+                	<div class="item-wrap">
+                    	<a href="/arth303/Intro/index.html">
+                        	<img src="/images/portfolio/arth303-small.jpg" alt="ARTH303">
+                        	<div class="overlay"></div>                       
+                        	<div class="portfolio-item-meta">
+          					    <h5>ARTH303</h5>
+                            	<p>Art of the Islamic World</p>
+          					</div>                         
+                     	</a>
+                  	</div>
+          		</div> <!-- /item -->
+
+          		    			<!-- item -->
+    			<div class="bgrid item">
+                	<div class="item-wrap">
+                    	<a href="bio305/Intro/index.html">
+                        	<img src="/images/portfolio/bio305-small.jpg" alt="BIO305">
+                        	<div class="overlay"></div>                       
+                        	<div class="portfolio-item-meta">
+          					    <h5>BIO305</h5>
+                            	<p>Genetics</p>
+          					</div>                         
+                     	</a>
+                  	</div>
+          		</div> <!-- /item -->
+
+          		    			<!-- item -->
+    			<div class="bgrid item">
+                	<div class="item-wrap">
+                    	<a href="engl301/Intro/index.html">
+                        	<img src="/images/portfolio/engl301-small.jpg" alt="ENGL301">
+                        	<div class="overlay"></div>                       
+                        	<div class="portfolio-item-meta">
+          					    <h5>ENGL301</h5>
+                            	<p>Introduction to Literary Theory</p>
+          					</div>                         
+                     	</a>
+                  	</div>
+          		</div> <!-- /item -->
+
+          		    			<!-- item -->
+    			<div class="bgrid item">
+                	<div class="item-wrap">
+                    	<a href="hist303/Intro/index.html">
+                        	<img src="/images/portfolio/hist303-small.jpg" alt="HIST303">
+                        	<div class="overlay"></div>                       
+                        	<div class="portfolio-item-meta">
+          					    <h5>HIST303</h5>
+                            	<p>The Age of Revolutions in the Atlantic World, 1776-1848</p>
+          					</div>                         
+                     	</a>
+                  	</div>
+          		</div> <!-- /item -->
+
+          		    			<!-- item -->
+    			<div class="bgrid item">
+                	<div class="item-wrap">
+                    	<a href="ma211/Intro/index.html">
+                        	<img src="/images/portfolio/ma211-small.jpg" alt="MA211">
+                        	<div class="overlay"></div>                       
+                        	<div class="portfolio-item-meta">
+          					    <h5>MA211</h5>
+                            	<p>Linear Algebra</p>
+          					</div>                         
+                     	</a>
+                  	</div>
+          		</div> <!-- /item -->
+
+          		    			<!-- item -->
+    			<div class="bgrid item">
+                	<div class="item-wrap">
+                    	<a href="phil201/Intro/index.html">
+                        	<img src="/images/portfolio/phil201-small.jpg" alt="PHIL201">
+                        	<div class="overlay"></div>                       
+                        	<div class="portfolio-item-meta">
+          					    <h5>PHIL201</h5>
+                            	<p>The Philosophy of Death</p>
+          					</div>                         
+                     	</a>
+                  	</div>
+          		</div> <!-- /item -->
+
+          		    			<!-- item -->
+    			<div class="bgrid item">
+                	<div class="item-wrap">
+                    	<a href="polsc311/Intro/index.html">
+                        	<img src="/images/portfolio/polsc311-small.jpg" alt="POLSC311">
+                        	<div class="overlay"></div>                       
+                        	<div class="portfolio-item-meta">
+          					    <h5>POLSC311</h5>
+                            	<p>United States Foreign Policy</p>
+          					</div>                         
+                     	</a>
+                  	</div>
+          		</div> <!-- /item -->
+
+          		    			<!-- item -->
+    			<div class="bgrid item">
+                	<div class="item-wrap">
+                    	<a href="psych303/Intro/index.html">
+                        	<img src="/images/portfolio/psych303-small.jpg" alt="PSYCH303">
+                        	<div class="overlay"></div>                       
+                        	<div class="portfolio-item-meta">
+          					    <h5>PSYCH303</h5>
+                            	<p>Educational Psychology</p>
+          					</div>                         
+                     	</a>
+                  	</div>
+          		</div> <!-- /item -->
+
+
+      		</div>
+  		</div>
+	</div>
+</section>
+
+</br><hr/>
+
+<section id="courselist">
+	<ul>
+		{% for collection in site.collections %}
         {% capture label %}{{ collection | first}}{% endcapture %}
-        
-        <a href = "{{ site.collections.[label].docs.first.url }}">{{ site.collections.[label].docs.first.title }}</a><br>
+		<a href = "{{ site.collections.[label].docs.first.url }}">{{ site.collections.[label].docs.first.title }}</a>
+		<br>{% endfor %}</ul>
 
-      {% endfor %}
-    </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-</div>
+	<p class="rss-subscribe">
+		subscribe
+		<a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
+	</p>
+</section>
