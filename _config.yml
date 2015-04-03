@@ -99,10 +99,6 @@ collections:
     output: true
     permalink: /bio101a/:path/
     label: BIO101A
-  course_bio101b:
-    output: true
-    permalink: /bio101b/:path/
-    label: BIO101B
   course_bio101l:
     output: true
     permalink: /bio101l/:path/
@@ -147,10 +143,6 @@ collections:
     output: true
     permalink: /bio306/:path/
     label: BIO306
-  course_bio307:
-    output: true
-    permalink: /bio307/:path/
-    label: BIO307
   course_bio308:
     output: true
     permalink: /bio308/:path/
@@ -203,94 +195,14 @@ collections:
     output: true
     permalink: /bio407/:path/
     label: BIO407
-  course_bus101:
-    output: true
-    permalink: /bus101/:path/
-    label: BUS101
-  course_bus103:
-    output: true
-    permalink: /bus103/:path/
-    label: BUS103
-  course_bus105:
-    output: true
-    permalink: /bus105/:path/
-    label: BUS105
-  course_bus202:
-    output: true
-    permalink: /bus202/:path/
-    label: BUS202
-  course_bus203:
-    output: true
-    permalink: /bus203/:path/
-    label: BUS203
-  course_bus204:
-    output: true
-    permalink: /bus204/:path/
-    label: BUS204
-  course_bus205:
-    output: true
-    permalink: /bus205/:path/
-    label: BUS205
-  course_bus206:
-    output: true
-    permalink: /bus206/:path/
-    label: BUS206
-  course_bus208:
-    output: true
-    permalink: /bus208/:path/
-    label: BUS208
-  course_bus209: 
-    output: true
-    permalink: /bus209/:path/
-    label: BUS209
-  course_bus210:
-    output: true
-    permalink: /bus210/:path/
-    label: BUS210
-  course_bus300:
-    output: true
-    permalink: /bus300/:path/
-    label: BUS300
-  course_bus301:
-    output: true
-    permalink: /bus301/:path/
-    label: BUS301
-  course_bus303:
-    output: true
-    permalink: /bus303/:path/
-    label: BUS303
-  course_bus305:
-    output: true
-    permalink: /bus305/:path/
-    label: BUS305
   course_bus306:
     output: true
     permalink: /bus306/:path/
     label: BUS306
-  course_bus401:
-    output: true
-    permalink: /bus401/:path/
-    label: BUS401
-  course_bus402:
-    output: true
-    permalink: /bus402/:path/
-    label: BUS402
-  course_bus403:
-    output: true
-    permalink: /bus403/:path/
-    label: BUS403
   course_bus404:
     output: true
     permalink: /bus404/:path/
     label: BUS404
-  course_bus501:
-    output: true
-    permalink: /bus501/:path/
-    label: BUS501
-  course_chem101:
-    output: true
-    permalink: /chem101/:path/
-    label: CHEM101
   course_chem102:
     output: true
     permalink: /chem102/:path/
@@ -339,18 +251,10 @@ collections:
     output: true
     permalink: /chem205/:path/
     label: CHEM205
-  course_comm001:
-    output: true
-    permalink: /comm001/:path/
-    label: COMM001
   course_comm002:
     output: true
     permalink: /comm002/:path/
     label: COMM002
-  course_comm101:
-    output: true
-    permalink: /comm101/:path/
-    label: COMM101
   course_comm103:
     output: true
     permalink: /comm103/:path/
@@ -363,138 +267,30 @@ collections:
     output: true
     permalink: /comm323/:path/
     label: COMM323
-  course_comm411:
-    output: true
-    permalink: /comm411/:path/
-    label: COMM411
   course_commoncore101:
     output: true
     permalink: /commoncore101/:path/
     label: COMMONCORE101
-  course_cs101:
-    output: true
-    permalink: /cs101/:path/
-    label: CS101
-  course_cs102:
-    output: true
-    permalink: /cs102/:path/
-    label: CS102
-  course_cs107:
-    output: true
-    permalink: /cs107/:path/
-    label: CS107
-  course_cs201:
-    output: true
-    permalink: /cs201/:path/
-    label: CS201
-  course_cs202:
-    output: true
-    permalink: /cs202/:path/
-    label: CS202
-  course_cs301:
-    output: true
-    permalink: /cs301/:path/
-    label: CS301
-  course_cs302:
-    output: true
-    permalink: /cs302/:path/
-    label: CS302
-  course_cs303:
-    output: true
-    permalink: /cs303/:path/
-    label: CS303
-  course_cs304:
-    output: true
-    permalink: /cs304/:path/
-    label: CS304
-  course_cs305:
-    output: true
-    permalink: /cs305/:path/
-    label: CS305
-  course_cs401:
-    output: true
-    permalink: /cs401/:path/
-    label: CS401
-  course_cs402:
-    output: true
-    permalink: /cs402/:path/
-    label: CS402
-  course_cs403:
-    output: true
-    permalink: /cs403/:path/
-    label: CS403
-  course_cs404:
-    output: true
-    permalink: /cs404/:path/
-    label: CS404
-  course_cs405:
-    output: true
-    permalink: /cs405/:path/
-    label: CS405
-  course_cs406:
-    output: true
-    permalink: /cs406/:path/
-    label: CS406
   course_cs407:
     output: true
     permalink: /cs407/:path/
     label: CS407
-  course_cs408:
-    output: true
-    permalink: /cs408/:path/
-    label: CS408
-  course_cs409:
-    output: true
-    permalink: /cs409/:path/
-    label: CS409
-  course_cs410:
-    output: true
-    permalink: /cs410/:path/
-    label: CS410
   course_cs411:
     output: true
     permalink: /cs411/:path/
     label: CS411
-  course_cs412:
-    output: true
-    permalink: /cs412/:path/
-    label: CS412
-  course_cust104:
-    output: true
-    permalink: /cust104/:path/
-    label: CUST104
-  course_cust105:
-    output: true
-    permalink: /cust105/:path/
-    label: CUST105
   course_econ101:
     output: true
     permalink: /econ101/:path/
     label: ECON101
-  course_econ101_clep:
-    output: true
-    permalink: /econ101-clep/:path/
-    label: ECON101-CLEP
   course_econ102:
     output: true
     permalink: /econ102/:path/
     label: ECON102
-  course_econ102_exc:
-    output: true
-    permalink: /econ102-exc/:path/
-    label: ECON102-EXC
   course_econ200:
     output: true
     permalink: /econ200/:path/
     label: ECON200
-  course_econ201:
-    output: true
-    permalink: /econ201/:path/
-    label: ECON201
-  course_econ202:
-    output: true
-    permalink: /econ202/:path/
-    label: ECON202
   course_econ301:
     output: true
     permalink: /econ301/:path/
@@ -519,22 +315,6 @@ collections:
     output: true
     permalink: /econ306/:path/
     label: ECON306
-  course_econ307:
-    output: true
-    permalink: /econ307/:path/
-    label: ECON307
-  course_engl000:
-    output: true
-    permalink: /engl000/:path/
-    label: ENGL000
-  course_engl001:
-    output: true
-    permalink: /engl001/:path/
-    label: ENGL001
-  course_engl002:
-    output: true
-    permalink: /engl002/:path/
-    label: ENGL002
   course_engl101:
     output: true
     permalink: /engl101/:path/
@@ -575,10 +355,6 @@ collections:
     output: true
     permalink: /engl404/:path/
     label: ENGL404
-  course_engl405:
-    output: true
-    permalink: /engl405/:path/
-    label: ENGL405
   course_engl406:
     output: true
     permalink: /engl406/:path/
@@ -607,10 +383,6 @@ collections:
     output: true
     permalink: /engl412/:path/
     label: ENGL412
-  course_envs203:
-    output: true
-    permalink: /envs203/:path/
-    label: ENVS203
   course_envs504:
     output: true
     permalink: /envs504/:path/
@@ -627,10 +399,6 @@ collections:
     output: true
     permalink: /hist102/:path/
     label: HIST102
-  course_hist103:
-    output: true
-    permalink: /hist103/:path/
-    label: HIST103
   course_hist104:
     output: true
     permalink: /hist104/:path/
@@ -715,14 +483,6 @@ collections:
     output: true
     permalink: /hist351/:path/
     label: HIST351
-  course_hist362:
-    output: true
-    permalink: /hist362/:path/
-    label: HIST362
-  course_hist363:
-    output: true
-    permalink: /hist363/:path/
-    label: HIST363
   course_hist364:
     output: true
     permalink: /hist364/:path/
@@ -779,18 +539,6 @@ collections:
     output: true
     permalink: /k12math012/:path/
     label: K12MATH012
-  course_k12math013:
-    output: true
-    permalink: /k12math013/:path/
-    label: K12MATH013
-  course_k12math014:
-    output: true
-    permalink: /k12math014/:path/
-    label: K12MATH014
-  course_ma001:
-    output: true
-    permalink: /ma001/:path/
-    label: MA001
   course_ma002:
     output: true
     permalink: /ma002/:path/
@@ -803,18 +551,10 @@ collections:
     output: true
     permalink: /ma004/:path/
     label: MA004
-  course_ma005:
-    output: true
-    permalink: /ma005/:path/
-    label: MA005
   course_ma101:
     output: true
     permalink: /ma101/:path/
     label: MA101
-  course_ma101_exc:
-    output: true
-    permalink: /ma101-exc/:path/
-    label: MA101-EXC
   course_ma102:
     output: true
     permalink: /ma102/:path/
@@ -823,14 +563,6 @@ collections:
     output: true
     permalink: /ma103/:path/
     label: MA103
-  course_ma111:
-    output: true
-    permalink: /ma111/:path/
-    label: MA111
-  course_ma121:
-    output: true
-    permalink: /ma121/:path/
-    label: MA121
   course_ma201:
     output: true
     permalink: /ma201/:path/
@@ -967,10 +699,6 @@ collections:
     output: true
     permalink: /phil102/:path/
     label: PHIL102
-  course_phil103:
-    output: true
-    permalink: /phil103/:path/
-    label: PHIL103
   course_phil201:
     output: true
     permalink: /phil201/:path/
@@ -979,42 +707,14 @@ collections:
     output: true
     permalink: /phil202/:path/
     label: PHIL202
-  course_phil304:
-    output: true
-    permalink: /phil304/:path/
-    label: PHIL304
-  course_phys101:
-    output: true
-    permalink: /phys101/:path/
-    label: PHYS101
-  course_phys102:
-    output: true
-    permalink: /phys102/:path/
-    label: PHYS102
-  course_polsc101:
-    output: true
-    permalink: /polsc101/:path/
-    label: POLSC101
-  course_polsc201:
-    output: true
-    permalink: /polsc201/:path/
-    label: POLSC201
   course_polsc211:
     output: true
     permalink: /polsc211/:path/
     label: POLSC211
-  course_polsc221:
-    output: true
-    permalink: /polsc221/:path/
-    label: POLSC221
   course_polsc231:
     output: true
     permalink: /polsc231/:path/
     label: POLSC231
-  course_polsc232:
-    output: true
-    permalink: /polsc232/:path/
-    label: POLSC232
   course_polsc241:
     output: true
     permalink: /polsc241/:path/
@@ -1079,14 +779,6 @@ collections:
     output: true
     permalink: /polsc333/:path/
     label: POLSC333
-  course_polsc401:
-    output: true
-    permalink: /polsc401/:path/
-    label: POLSC401
-  course_polsc402:
-    output: true
-    permalink: /polsc402/:path/
-    label: POLSC402
   course_polsc411:
     output: true
     permalink: /polsc411/:path/
@@ -1107,38 +799,10 @@ collections:
     output: true
     permalink: /prdv001/:path/
     label: PRDV001
-  course_prdv002:
-    output: true
-    permalink: /prdv002/:path/
-    label: PRDV002
-  course_prdv003:
-    output: true
-    permalink: /prdv003/:path/
-    label: PRDV003
-  course_prdv004:
-    output: true
-    permalink: /prdv004/:path/
-    label: PRDV004
-  course_prdv005:
-    output: true
-    permalink: /prdv005/:path/
-    label: PRDV005
   course_prdv101:
     output: true
     permalink: /prdv101/:path/
     label: PRDV101
-  course_prdv102:
-    output: true
-    permalink: /prdv102/:path/
-    label: PRDV102
-  course_prdv103:
-    output: true
-    permalink: /prdv103/:path/
-    label: PRDV103
-  course_prdv104:
-    output: true
-    permalink: /prdv104/:path/
-    label: PRDV104
   course_prdv201:
     output: true
     permalink: /prdv201/:path/
@@ -1159,10 +823,6 @@ collections:
     output: true
     permalink: /prdv208/:path/
     label: PRDV208
-  course_prdv251:
-    output: true
-    permalink: /prdv251/:path/
-    label: PRDV251
   course_prdv252:
     output: true
     permalink: /prdv252/:path/
@@ -1175,14 +835,6 @@ collections:
     output: true
     permalink: /prdv401/:path/
     label: PRDV401
-  course_prsm107:
-    output: true
-    permalink: /prsm107/:path/
-    label: PRSM107
-  course_psych101:
-    output: true
-    permalink: /psych101/:path/
-    label: PSYCH101
   course_psych202a:
     output: true
     permalink: /psych202a/:path/
@@ -1243,30 +895,10 @@ collections:
     output: true
     permalink: /psych406/:path/
     label: PSYCH406
-  course_rwm101:
-    output: true
-    permalink: /rwm101/:path/
-    label: RWM101
-  course_rwm102:
-    output: true
-    permalink: /rwm102/:path/
-    label: RWM102
-  course_rwm103:
-    output: true
-    permalink: /rwm103/:path/
-    label: RWM103
   course_sales101:
     output: true
     permalink: /sales101/:path/
     label: SALES101
-  course_sales103:
-    output: true
-    permalink: /sales103/:path/
-    label: SALES103
-  course_soc101:
-    output: true
-    permalink: /soc101/:path/
-    label: SOC101
   course_sse101:
     output: true
     permalink: /sse101/:path/
@@ -1279,7 +911,3 @@ collections:
     output: true
     permalink: /tprep101/:path/
     label: TPREP101
-  course_trycollege101:
-    output: true
-    permalink: /trycollege101/:path/
-    label: TRYCOLLEGE101
