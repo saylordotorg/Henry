@@ -39,54 +39,68 @@
 
 </header>
 
-  <!-- Hero
+<!-- Hero
    =================================================== -->
-   <section id="hero">	
-   	  
-		<div class="row hero-content">
+<section id="hero">
 
+	<div class="row hero-content">
 
+		<div class="twelve columns flex-container">
 
-			<div class="twelve columns flex-container">
+			<div id="hero-slider" class="flexslider">
 
-			   <div id="hero-slider" class="flexslider">
+				<ul class="slides">
+					<h1>
+						{{page.title}}
+						<!--<span>.</span>-->
+				</h1>
+				<!--<p>{{page.description}}</p>-->
+			<!-- Slide -->
+			<li>
+				<div class="flex-caption">
+					<h2>
+						Welcome. These are Saylor Academy's community-maintained "legacy" courses. They are not being actively worked on by Saylor Academy staff, but represent the combined efforts of a team of professors, subject-matter experts, and the Saylor community.
+					</h2>
+					<p>
+						<a class="button stroke smoothscroll" href="http://saylor.org">More About Saylor Academy</a>
+					</p>
+				</div>
+			</li>
 
-				   <ul class="slides">
-						<h1>
-							{{page.title}}
-							<!--	<span>.</span> -->
-						</h1>
-						<!--<p>{{page.description}}</p>-->
-					   <!-- Slide -->
-					   <li>
-						   <div class="flex-caption">
-								<h2>Free Courses. Yay.</h1>	
-								<p><a class="button stroke smoothscroll" href="http://saylor.org">More About Us</a></p>																   
-							</div>						
-					   </li>
+			<!-- Slide -->
+			<li>
+				<div class="flex-caption">
+					<h2 >
+						Looking for our current courses, which include opportunities to get credit and receive certificates of completion?
+					</h2>
+					<p>
+						<a class="button stroke smoothscroll" href="https://learn.saylor.org">Click Here for our Current Courses</a>
+					</p>
+				</div>
+			</li>
 
-					   <!-- Slide -->
-					   <li>						
-							<div class="flex-caption">
-								<h2 >Something something learn lorem ipsum. Maybe link to ePortfolio?</h1>	
-								<p><a class="button stroke smoothscroll" href="https://eportfolio.saylor.org">Sure, take me away to ePortfolio</a></p>									   
-							</div>					
-					   </li>
+			<!-- Slide -->
+			<li>
+				<div class="flex-caption">
+					<h2>
+						Want to help us by contributing updates to these courses? Check us out on GitHub!
+					</h2>
+					<p>
+						<a class="button stroke smoothscroll" href="https://github.com/saylordotorg">Saylordotorg on GitHub</a>
+					</p>
+				</div>
+			</li>
 
-					   <!-- Slide -->
-					   <li>
-						   <div class="flex-caption">
-								<h2>Take a look at some of our real super fancy courses in moodle you can get credit and stuff for.
-								<p><a class="button stroke smoothscroll" href="https://learn.saylor.org">BEAM ME UP, MOODLE</a></p>										   
-							</div>
-					   </li>					              
+		</ul>
 
-				   </ul>
+	</div>
+	<!-- .flexslider -->
 
-			   </div> <!-- .flexslider -->				   
+</div>
+<!-- .flex-container -->
 
-	      </div> <!-- .flex-container -->      
+</div>
+<!-- .hero-content -->
 
-		</div> <!-- .hero-content -->	   
-
-   </section> <!-- #hero -->
+</section>
+<!-- #hero -->
