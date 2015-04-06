@@ -1096,7 +1096,7 @@ footer #go-top {
 	display: none;
 }
 footer #go-top a {
-	display: block;
+	display: inline-block;
 	padding: 12px 30px;
 	background: #469DCD;
 	color: white;
