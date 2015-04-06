@@ -107,7 +107,8 @@
   	/*----------------------------------------------------*/
   	/* Smooth Scrolling
   	------------------------------------------------------ */
-  	$('.smoothscroll').on('click', function (e) {
+  	/*
+    $('.smoothscroll').on('click', function (e) {
 	 	
 	 	e.preventDefault();
 
@@ -121,7 +122,7 @@
       });
 
   	});
-
+    */
 
   	/*----------------------------------------------------*/
   	/* Highlight the current section in the navigation bar
