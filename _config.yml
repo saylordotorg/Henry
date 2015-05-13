@@ -911,6 +911,10 @@ collections:
     output: true
     permalink: /sts101/:path/
     label: STS101
+  course_sts203:
+    output: true
+    permalink: /sts203/:path/
+    label: STS203
   course_tprep101:
     output: true
     permalink: /tprep101/:path/
