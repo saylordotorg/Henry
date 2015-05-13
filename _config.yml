@@ -423,6 +423,10 @@ collections:
     output: true
     permalink: /hist221/:path/
     label: HIST221
+  course_hist222:
+    output: true
+    permalink: /hist222/:path/
+    label: HIST222
   course_hist231:
     output: true
     permalink: /hist231/:path/
