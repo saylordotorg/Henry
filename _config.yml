@@ -891,6 +891,10 @@ collections:
     output: true
     permalink: /psych404/:path/
     label: PSYCH404
+  course_psych405:
+  	output: true
+  	permalink: /psych405/:path/
+  	label: PSYCH405
   course_psych406:
     output: true
     permalink: /psych406/:path/
