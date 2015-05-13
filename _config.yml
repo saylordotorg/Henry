@@ -267,10 +267,6 @@ collections:
     output: true
     permalink: /comm323/:path/
     label: COMM323
-  course_commoncore101:
-    output: true
-    permalink: /commoncore101/:path/
-    label: COMMONCORE101
   course_cs407:
     output: true
     permalink: /cs407/:path/
