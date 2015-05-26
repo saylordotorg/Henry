@@ -931,3 +931,7 @@ collections:
     output: true
     permalink: /tprep101/:path/
     label: TPREP101
+  course_trycollege101:
+    output: true
+    permalink: /trycollege101/:path/
+    label: TRYCOLLEGE101
