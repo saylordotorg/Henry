@@ -27,10 +27,6 @@ highlighter: pygments
 #permalink: /:title/
 
 collections:
-  course_arth101:
-    output: true
-    permalink: /arth101/:path/
-    label: ARTH101
   course_arth110:
     output: true
     permalink: /arth110/:path/
