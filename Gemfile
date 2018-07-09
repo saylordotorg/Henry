@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'jekyll'
-gem 'json'gem 'jekyll', '2.5.3'
+gem 'jekyll', '2.5.3'
 gem 'json'
 gem 'redcarpet'
+gem 'rouge'

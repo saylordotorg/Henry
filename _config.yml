@@ -22,7 +22,7 @@ redcarpet:
     - superscript
     - footnotes
     
-highlighter: pygments
+highlighter: rouge
 
 #permalink: /:title/
 
