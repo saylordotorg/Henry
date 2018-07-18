@@ -287,10 +287,6 @@ collections:
     output: true
     permalink: /cs304/:path/
     label: CS304
-  course_cs305:
-    output: true
-    permalink: /cs305/:path/
-    label: CS305
   course_cs404:
     output: true
     permalink: /cs404/:path/
