@@ -151,6 +151,10 @@ collections:
     output: true
     permalink: /bio306/:path/
     label: BIO306
+  course_bio307:
+    output: true
+    permalink: /bio307/:path/
+    label: BIO307
   course_bio308:
     output: true
     permalink: /bio308/:path/
@@ -275,14 +279,54 @@ collections:
     output: true
     permalink: /comm323/:path/
     label: COMM323
+  course_cs303:
+    output: true
+    permalink: /cs303/:path/
+    label: CS303
+  course_cs304:
+    output: true
+    permalink: /cs304/:path/
+    label: CS304
+  course_cs305:
+    output: true
+    permalink: /cs305/:path/
+    label: CS305
+  course_cs404:
+    output: true
+    permalink: /cs404/:path/
+    label: CS404
+  course_cs405:
+    output: true
+    permalink: /cs405/:path/
+    label: CS405
+  course_cs406:
+    output: true
+    permalink: /cs406/:path/
+    label: CS406
   course_cs407:
     output: true
     permalink: /cs407/:path/
     label: CS407
+  course_cs408:
+    output: true
+    permalink: /cs408/:path/
+    label: CS408
+  course_cs409:
+    output: true
+    permalink: /cs409/:path/
+    label: CS409
+  course_cs410:
+    output: true
+    permalink: /cs410/:path/
+    label: CS410
   course_cs411:
     output: true
     permalink: /cs411/:path/
     label: CS411
+  course_cs412:
+    output: true
+    permalink: /cs412/:path/
+    label: CS412
   course_econ101:
     output: true
     permalink: /econ101/:path/
@@ -547,6 +591,18 @@ collections:
     output: true
     permalink: /k12math012/:path/
     label: K12MATH012
+  course_k12math013:
+    output: true
+    permalink: /k12math013/:path/
+    label: K12MATH013
+  course_k12math014:
+    output: true
+    permalink: /k12math014/:path/
+    label: K12MATH014
+  course_ma001:
+    output: true
+    permalink: /ma001/:path/
+    label: MA001
   course_ma002:
     output: true
     permalink: /ma002/:path/
