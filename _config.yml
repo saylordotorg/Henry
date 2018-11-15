@@ -151,6 +151,10 @@ collections:
     output: true
     permalink: /bio306/:path/
     label: BIO306
+  course_bio307:
+    output: true
+    permalink: /bio307/:path/
+    label: BIO307
   course_bio308:
     output: true
     permalink: /bio308/:path/
